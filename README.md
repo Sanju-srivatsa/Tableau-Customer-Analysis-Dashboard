@@ -60,3 +60,7 @@ The data for this dashboard includes customer transaction details, including:
 3. **Interact with Visualizations**:
    - Explore different customer cohorts by selecting specific months in the heatmap.
    - View changes in churn rates and customer acquisition by selecting different time periods.
+
+<img width="990" alt="image" src="https://github.com/user-attachments/assets/0c89f9a7-df05-4d22-ba6d-0e97873f9f3e">
+<img width="982" alt="image" src="https://github.com/user-attachments/assets/31a54f52-de2d-41f4-b8f5-4e802ea06729">
+
